@@ -8,7 +8,9 @@ Desenvolvimento de um CRUD simples baseado em cadastro de crianças recém nasci
 
 ## Versão disponível
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="150" height="85" />](http://www.php.net/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="100" height="100" />](http://www.php.net/)
+
+## Mais telas
 
 | CADASTRO | LISTAGEM |
 | --- | --- |
@@ -19,6 +21,7 @@ Desenvolvimento de um CRUD simples baseado em cadastro de crianças recém nasci
 | <img src="https://uploaddeimagens.com.br/images/001/970/354/original/9.png" width="420" height="600" /> | <img src="https://uploaddeimagens.com.br/images/001/970/355/original/10.png" width="420" height="600" />
 
 ## Site
+
 Visite a página [Cadastro de Bebê](https://www.felipesales.com.br/cadastrar-bebe).
 
 ## Suporte nos navegadores
